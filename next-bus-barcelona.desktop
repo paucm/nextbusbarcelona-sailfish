@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=next-bus-barcelona
+Exec=next-bus-barcelona
+Name=Next Bus Barcelona
+Name[es]=Próximo Bus Barcelona
+Name[ca]=Proper Bus Barcelona
